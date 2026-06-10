@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Poojitha Karnam</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kamlesh-2003/kamlesh-2003/main/poojitha_banner_light.svg" width="100%" alt="Poojitha Karnam Banner">
+  <img src="https://raw.githubusercontent.com/PoojithaKarnam/PoojithaKarnam/main/poojitha_banner_light.svg" width="100%" alt="Poojitha Karnam Banner">
 </div>
 
 <h3 align="center">DevOps & Cloud Enthusiast from Andra pradesh ,India 🇮🇳 | Building CI/CD Pipelines, Automating Infrastructure and Exploring Cloud Technologies</h3>
