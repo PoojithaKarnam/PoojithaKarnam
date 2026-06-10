@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/poojitha-karnam-b96612300/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kamlesh%20Kundkar-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Poojitha%20Karnam-blue?logo=linkedin&style=flat-square" />
   </a>
 
 </p>
