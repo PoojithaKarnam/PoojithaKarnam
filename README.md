@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Kamlesh Kundkar</h1>
+<h1 align="center">Hey Everyone 👋, I'm Poojitha Karnam</h1>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PoojithaKarnam/PoojithaKarnam/main/banner.png" width="100%" alt="Poojitha Karnam Banner">
