@@ -1,8 +1,8 @@
 <h1 align="center">Hey Everyone 👋, I'm Poojitha Karnam</h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PoojithaKarnam/PoojithaKarnam/main/poojitha_banner.html" width="100%" alt="Poojitha Karnam Banner">
-</div>
+<a href="https://poojithakarnam.github.io/PoojithaKarnam/poojitha_banner.html">
+  View Interactive Banner
+</a>
 
 <h3 align="center">DevOps & Cloud Enthusiast from Andra pradesh ,India 🇮🇳 | Building CI/CD Pipelines, Automating Infrastructure and Exploring Cloud Technologies</h3>
 
