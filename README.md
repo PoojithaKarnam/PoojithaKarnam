@@ -89,6 +89,6 @@
 
 💼 Looking for **DevOps / Cloud Engineer Opportunities**
 
-📧 Reach me at: **kundkarkamlesh@gmail.com**
+📧 Reach me at: **poojithacareer41@gmail.com**
 
 > *"Passionate about automation, cloud technologies, and continuous learning. Building practical DevOps solutions one project at a time."*
